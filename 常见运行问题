@@ -1,0 +1,9 @@
+1、
+Using TensorFlow backend.
+Process finished with exit code -1073741819 (0xC0000005)
+
+遇到上述问题：
+说明需要升级python版本
+
+可以用如下命令：conda update python
+
